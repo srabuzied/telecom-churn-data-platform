@@ -44,6 +44,7 @@ select
     fs.avgrev,
     fs.rev_mean,
     fs.change_rev,
+    fs.totmrc_mean,
 
     -- Customer Metrics
     fs.churn,
