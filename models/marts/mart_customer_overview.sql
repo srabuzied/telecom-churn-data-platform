@@ -61,6 +61,7 @@ select
     -- Loyalty Dimension
     dl.customer_loyalty,
     dl.clv_segment,
+    dl.crclscod_bin,
 
     -- Device Dimension
     dd.device_age,
