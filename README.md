@@ -144,7 +144,7 @@ Business-ready analytical layer optimized for reporting and dashboarding.
 
 ## Galaxy Schema
 
-![Galaxy Schema](Modeling.jpg)
+![Galaxy Schema](architecture/Modeling.jpg)
 
 The warehouse follows **Kimball Dimensional Modeling** principles and implements a **Fact Constellation (Galaxy Schema)**.
 
