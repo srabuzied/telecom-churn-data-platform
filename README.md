@@ -503,7 +503,24 @@ Looker Studio provides business-level analytics built on top of the Data Warehou
 ✅ Interactive Dashboards
 
 ---
+# 📂 Data Sources
 
+The project uses the public Telecom Customer Churn dataset from IBM Sample Data.
+
+### Dataset Features
+
+- Customer Demographics
+- Service Usage Information
+- Billing Information
+- Customer Support Interactions
+- Churn Indicators
+
+### Source
+
+🔗 [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/shenoudasafwat/telecom-customer-churn-100k-cleaned-records)
+---
+
+###
 # 👩‍💻 Team
 
 ### ITI Data Engineering Graduation Project
